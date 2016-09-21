@@ -1,0 +1,10 @@
+{
+  "name": "simple-bower",
+  "version": "1.0.0",
+  "description": "basic rest api to server bower packages",
+  "author": "bryan.s.weaver",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.14.0"
+  }
+}
